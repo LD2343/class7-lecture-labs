@@ -1,0 +1,10 @@
+class 7 - 9.23.25
+
+topic = command line, file management & GitHub
+
+goal for today = upload sample files from your computer to a GitHub repo, using Git Bash
+
+notes
+- ...
+- ...
+- ...
